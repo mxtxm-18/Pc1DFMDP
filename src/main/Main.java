@@ -21,7 +21,12 @@ public class Main {
         System.out.println("en crear");
         System.out.println("repositorio");
         System.out.println("usando git");
-        
+        System.out.println("Practica de");
+        System.out.println("lo aprendido");
+        System.out.println("en clase");
+        System.out.println("la ultima");
+        System.out.println("semana de");
+        System.out.println("enero");
     }
     
 }
